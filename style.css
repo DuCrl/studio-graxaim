@@ -1,0 +1,16 @@
+body{
+
+    margin: auto;
+    padding: auto;
+}
+
+.content{
+    margin: auto;
+    height: 5200px;
+    width: 750px;
+
+    text-align: center;
+    justify-content: center;
+
+    background-image: url("./mobile\ -\ r0\(2\).svg");
+}
